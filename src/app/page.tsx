@@ -14,12 +14,9 @@ export default function Home() {
           priority
         />
         <h6>Developer</h6>
-
       </main>
-<div className="!flex !flex-col">A blog is coming soon!</div>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-
-      </footer>
+      <div className="!flex !flex-col">A blog is coming soon!</div>
+      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center"></footer>
     </div>
   );
 }
